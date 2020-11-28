@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity"
+    android:background="#05E4D0"
+    >
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PAPA"
+        android:textSize="40sp"
+        android:id="@+id/atname"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09455948647"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/btnPapacall"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginLeft="180dp"
+        android:src="@drawable/btncall"
+        android:layout_marginStart="180dp" />
+
+    <ImageButton
+        android:id="@+id/btnPapamessage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="265dp"
+        android:src="@drawable/btnmessage"
+        android:layout_marginStart="265dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RUSSEL"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09150753790"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/btnRusscall"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginLeft="180dp"
+        android:src="@drawable/btncall"
+        android:layout_marginStart="180dp" />
+
+    <ImageButton
+        android:id="@+id/btnRussmessage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="265dp"
+        android:src="@drawable/btnmessage"
+        android:layout_marginStart="265dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="JUDELYN"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09052661123"
+        android:textSize="20sp" />
+    <ImageButton
+        android:id="@+id/btnJudelyncall"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginLeft="180dp"
+        android:src="@drawable/btncall"
+        android:layout_marginStart="180dp" />
+
+    <ImageButton
+        android:id="@+id/btnJudelynmessage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="265dp"
+        android:src="@drawable/btnmessage"
+        android:layout_marginStart="265dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ALEXIS"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09380876172"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/btnAlexiscall"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginLeft="180dp"
+        android:src="@drawable/btncall"
+        android:layout_marginStart="180dp" />
+
+    <ImageButton
+        android:id="@+id/btnAlexismessage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="265dp"
+        android:src="@drawable/btnmessage"
+        android:layout_marginStart="265dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vincent"
+        android:textSize="40sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="09517122290"
+        android:textSize="20sp" />
+
+    <ImageButton
+        android:id="@+id/btnVincentcall"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-70dp"
+        android:layout_marginLeft="180dp"
+        android:src="@drawable/btncall"
+        android:layout_marginStart="180dp" />
+
+    <ImageButton
+        android:id="@+id/btnVincentmessage"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="-75dp"
+        android:layout_marginLeft="265dp"
+        android:src="@drawable/btnmessage"
+        android:layout_marginStart="265dp" />
+
+
+
+
+</LinearLayout>

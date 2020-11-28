@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Telephony</string>
+    <string name="edit_phone_number">Edit Phone Number</string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="papa">PAPA</string>
+    <string name="_09455948647">09455948647</string>
+    <string name="mama">mama</string>
+    <string name="MAMA" />
+</resources>
